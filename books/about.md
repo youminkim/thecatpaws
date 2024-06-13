@@ -4,4 +4,4 @@ title: "About"
 
 # Thecatpaws
 
-Here we go.
+Welcome to thecatpaws!
