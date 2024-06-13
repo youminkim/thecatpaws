@@ -15,7 +15,9 @@ const getBooksBasePath = () => {
 
 export function getBooksMetadata(): BookMetadata[] {
   const files = fs.readdirSync("books");
-  const markdownPosts = files.filter((file) => file.endsWith(".md"));
+  const markdownPosts = files
+    .filter((file) => file.endsWith(".md"))
+    .filter((file) => file !== "home.md"); // home.md is for the home page
 
   // get the file data
   const posts = markdownPosts.map((filename) => {

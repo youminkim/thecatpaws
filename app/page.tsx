@@ -1,7 +1,7 @@
+import Markdown from "markdown-to-jsx";
+import { getBook } from "./utils/books";
+
 export default function Home() {
-  return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div>Welcome to Thecatpaws!</div>
-    </main>
-  );
+  const home = getBook("home");
+  return <Markdown>{home.content}</Markdown>;
 }

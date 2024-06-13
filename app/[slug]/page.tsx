@@ -17,11 +17,5 @@ export async function generateMetadata({
 export default function BookPage(props: { params: { slug: string } }) {
   const slug = props.params.slug;
   const book = getBook(slug);
-  return (
-    <main>
-      <article>
-        <Markdown>{book.content}</Markdown>
-      </article>
-    </main>
-  );
+  return <Markdown>{book.content}</Markdown>;
 }

@@ -22,9 +22,10 @@ export default function RootLayout({
       <body className={inter.className}>
         <div className="container">
           <div className="sidebar">
-            <h1>
-              <Link href="/">😸</Link>
-            </h1>
+            <Link href="/" style={{ fontSize: 50 }}>
+              😸
+            </Link>
+            <div style={{ height: 20 }}></div>
             {books.map((book) => (
               <nav key={book.slug}>
                 <Link href={`/${book.slug}`}>{book.title}</Link>
