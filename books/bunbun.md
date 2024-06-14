@@ -39,7 +39,7 @@ Dear diary, 1 year has passed since that fateful day when my brother disappeared
   
   And this is not the end. On that street alone there were estimated at least 57 pets. Around 30 pets were directly involved in the car crash and had been heavily injured, at most 17 pets were shocked and ran away as soon as it happened. Then 10 pets died from the injuries that they sustained from the accident.
   
---------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
 I feel so bad for her… I heard from the gossip gerbil (Greta) that Purr’s owner got injured and lost her (Purr) in the accident. Even worse, her bestie, a cat called ’Snowflake’ died (actually it’s pretty suspicious if you think about it though because her description matches the cat that got kidnapped…but I’m sure it’s nothing!)
 
 ## 1st October 2023
