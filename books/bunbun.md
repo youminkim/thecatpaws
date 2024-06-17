@@ -58,3 +58,7 @@ Dear diary, the time has passed and important stuff already happened! A new memb
 ## 24th December 2023 (Xmas Eve)
 
 Dear diary, I’m SO excited for tomorrow! Tomorrow, it’s Christmas! Let me tell you a secret, my birthday is at Christmas too! I know you’re probably thinking, “Does that mean you get other gifts, like, double the gifts?” But you might also be thinking, "Oh, poor BunBun! She probably only gets 1 set of gifts then." Well, yes (to double the gifts) actually. But I just discovered that some children with the same birthday can only celebrate either of the celebrations and not get double gifts. I’m grateful (and so excited) that I get double gifts. This year, I only have one wish. To have a happy life.:>
+
+## 25th December 2023   
+
+Dear diary, MERRY CHRISTMAS!!!!!I got some shoes / socks from Zoe! Not bad at all…… Now my legs won’t be cold no more! Zoe has also gotten a present but I can’t see it due to my short legs:< Snow got a scarf, Purr got a tail warmer (didn’t know it existed !), and Mage & Lila got a new cage! Zoe gave us special treats just cuz’ it’s Cmas !Today was such a fun day, I can’t wait for the next Cmas!       
