@@ -10,7 +10,7 @@ Dear diary, my name is BunBun and you will be my new diary! Now, I will introduc
 Dinner was SO nice. We found some STEAK in the rubbish bin. Yes, STEAK. In a rubbish bin. I know right? Wait… that’s… a very strong smell… 
 I think I know why they threw it away… I am going to vomit .... wait I think I have a bucket… somewhere in the middle… of my collection pile… Wait a sec diary…
 
-Okay, I finished v o m i t i n g. It’s so disgusting I refuse to write the word properly. I’m going to rest while my brother finds some better food. Before I go to sleep, let me tell you something super cool. I can now read the time in human clocks! So whenever I need the time, I can just check the human clock I can see in the window above. So COOL!
+Okay, I finished v o m i t i n g. It’s so disgusting I refuse to write the word properly. I’m going to rest while my brother finds some better food. Before I go to sleep, let me tell you something super cool. I can now read the time in human clocks! So whenever I need the time, I can just check the human clock I can see through the window above. So COOL!
 
 Ummm… I just checked the time and a few hours have passed since my brother left to get food. And my brother is nowhere to be found!!! I’m sure he would not leave me right???  
 
