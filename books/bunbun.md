@@ -62,3 +62,17 @@ Dear diary, I’m SO excited for tomorrow! Tomorrow, it’s Christmas! Let me te
 ## 25th December 2023   
 
 Dear diary, MERRY CHRISTMAS!!!!!I got some shoes / socks from Zoe! Not bad at all…… Now my legs won’t be cold no more! Zoe has also gotten a present but I can’t see it due to my short legs:< Snow got a scarf, Purr got a tail warmer (didn’t know it existed !), and Mage & Lila got a new cage! Zoe gave us special treats just cuz’ it’s Cmas !Today was such a fun day, I can’t wait for the next Cmas!       
+
+
+## 1st January 2024
+
+Dear diary, today is the first year of 2024! Zoe took down the Cmas decorations and put up New Year decorations in record time.The Cmas tree is gone, the fairy lights are gone, no sign of Cmas. But, it’s fine. New Year celebrations is basically the same thing almost. One is for the end of the year and the other for the start of a year.
+     
+## 5th January 2024
+
+Dear diary, I HAVE CHANGED HOMES!!! You may be asking was I adopted. Well, you can call it that……Basically what happened was that I was strangely brought out of my comfy bed while trying to rest, then this guy walks in holding a hamster that looks like Lila, giving the hamster to Zoe and Zoe handing ME,PRECIOUS ME, to him!I mean this is outrageous!!!!!!You can’t just give a pet you found on the street to a RANDOM PERSON!!!!!!!!!!!Though,……*THINKING REALLY HARD*NO, THERE IS NO POSSIBLE THEORY OR EXPLANATION!!!!!I AM ELATED!!!
+Wait, does elated mean really happy?If it does, plz know I do not mean that…… ANYWAYS, ME BEING ANGRY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  
+
+Anyways, a few hours have passed since I wrote what I wrote above, so let’s all forget about that part and focus on this one. So my now owner is called Zack and before writing this I was taken out on a ‘walk’ as he says. Basically, going to the nearby park and walking around. But... he met a friend there who is a woman ,and she has a pet dog.I think I just got gifted a  FRIEND !!!The pet dog is called Flora and she is just like me!She also lost someone in her family just like me.
+
+Great news, the agency can now communicate with each other now!I do not want to explain how cuz’ I actually do not know how…
