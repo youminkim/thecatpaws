@@ -31,7 +31,7 @@ export function getBooksMetadata(): BookMetadata[] {
       slug: filename.replace(".md", ""),
     };
   });
-  return posts;
+  return posts.sort((a, b) => a.title.localeCompare(b.title));
 }
 
 export function getBook(slug: string): Book {

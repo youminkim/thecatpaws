@@ -1,5 +1,6 @@
 import Markdown from "markdown-to-jsx";
 import { getBook } from "../utils/books";
+import Viewer from "@/components/viewer";
 
 export async function generateMetadata({
   params,
@@ -17,5 +18,17 @@ export async function generateMetadata({
 export default function BookPage(props: { params: { slug: string } }) {
   const slug = props.params.slug;
   const book = getBook(slug);
-  return <Markdown>{book.content}</Markdown>;
+  return (
+    <Markdown
+      options={{
+        overrides: {
+          Viewer: {
+            component: Viewer,
+          },
+        },
+      }}
+    >
+      {book.content}
+    </Markdown>
+  );
 }
