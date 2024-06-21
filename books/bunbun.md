@@ -76,3 +76,10 @@ Wait, does elated mean really happy?If it does, plz know I do not mean that…�
 Anyways, a few hours have passed since I wrote what I wrote above, so let’s all forget about that part and focus on this one. So my now owner is called Zack and before writing this I was taken out on a ‘walk’ as he says. Basically, going to the nearby park and walking around. But... he met a friend there who is a woman ,and she has a pet dog.I think I just got gifted a  FRIEND !!!The pet dog is called Flora and she is just like me!She also lost someone in her family just like me.
 
 Great news, the agency can now communicate with each other now!I do not want to explain how cuz’ I actually do not know how…
+
+## 22nd May 2024
+
+Dear diary, 2 years have passed since the ‘incident’. Life is better now, living with Flora, Zack, the woman and a baby which popped out from nowhere. I wonder what the other pets are doing right now?
+
+THE END
+
