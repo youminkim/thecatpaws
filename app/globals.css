@@ -24,6 +24,7 @@ main {
 
 .sidebar {
   width: 150px;
+  margin: 10px;
 }
 
 /* Mobile device media query */

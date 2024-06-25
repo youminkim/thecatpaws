@@ -1,26 +1,37 @@
-# Characters
+# Thecatpaws.com
 
-## Snow
+Stories written by Jooha.
+
+---
+
+## Characters
+
+### Snow
+
 Unknown kitty found on street named Snow
 
 ![](https://thecatpaws.com/snow.png)
 
-## Bunbun
+### Bunbun
+
 A sad dog no one adopts
 
 ![](https://thecatpaws.com/bunbun.png)
 
-## Mage
+### Mage
+
 A cute hamster
 
 ![](https://thecatpaws.com/mage.png)
 
-## Purr
+### Purr
+
 A mischeif cat in the pet store
 
 ![](https://thecatpaws.com/purr.png)
 
-## Lila
+### Lila
+
 A missing hamster
 
 ![](https://thecatpaws.com/lila.png)
